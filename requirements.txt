@@ -4,4 +4,4 @@ beautifulsoup4
 pydub
 python-telegram-bot>=20.0
 yt-dlp
-pyaudioop
+
